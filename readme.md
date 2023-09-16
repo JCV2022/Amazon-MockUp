@@ -40,15 +40,15 @@ Over 1000px width.
 
 Under 1000px width.
 
-![image-20230916004626534](C:\Users\jonat\AppData\Roaming\Typora\typora-user-images\image-20230916004626534.png)
+![](images/checkout1.png)
 
-![image-20230916004640443](C:\Users\jonat\AppData\Roaming\Typora\typora-user-images\image-20230916004640443.png)
+![](images/checkout2.png)
 
 Code for tracking orders. A progress bar is shown for each order that is set to 50% complete (shipped).
 
-![image-20230916013642563](C:\Users\jonat\AppData\Roaming\Typora\typora-user-images\image-20230916013642563.png)
+![](images/progress_bar.png)
 
-![image-20230916013753001](C:\Users\jonat\AppData\Roaming\Typora\typora-user-images\image-20230916013753001.png)
+![](images/progress.png)
 
 ## Getting Started/Requirements
 
@@ -58,7 +58,7 @@ A code editor program is needed. Any should do fine, I used Visual Studio Code t
 
 If you do use Visual Studio Code as your code editor, install the extension Live Server to be able to run the code in real-time.
 
-![image-20230910181043468](C:\Users\jonat\AppData\Roaming\Typora\typora-user-images\image-20230910181043468.png)
+![](images/liveserver.png)
 
 ## Todo
 
