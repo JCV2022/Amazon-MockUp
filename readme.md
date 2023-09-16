@@ -9,8 +9,6 @@ The technical concepts my project supports is the use of media queries to modify
 ## Core Technical Concepts
 
 This is an array of objects in the products.js file. Each object or product has an id, image, name, rating, price, and keywords. Each product is given an id to help the code determine the differences between each product for the code to give the correct item with the correct price at checkout.
-![amazonimage](https://github.com/JCV2022/Amazon-MockUp/assets/101784278/95f6195e-5c6f-471b-807d-17a53ab6356a)
-
 
 ![image-20230914203125540](C:\Users\jonat\AppData\Roaming\Typora\typora-user-images\image-20230914203125540.png)
 
