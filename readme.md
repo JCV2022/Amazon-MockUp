@@ -12,31 +12,31 @@ The technical concepts my project supports is the use of media queries to modify
 
 This is an array of objects in the products.js file. Each object or product has an id, image, name, rating, price, and keywords. Each product is given an id to help the code determine the differences between each product for the code to give the correct item with the correct price at checkout.
 
-![image-20230914203125540](C:\Users\jonat\AppData\Roaming\Typora\typora-user-images\image-20230914203125540.png)
+![](images/products.png)
 
 For each product in the products array, the document body produces HTML that displays each product with its respective properties i.e. rating, price, and more.
 
-![image-20230915225328630](C:\Users\jonat\AppData\Roaming\Typora\typora-user-images\image-20230915225328630.png)
+![](images/js.png)
 
 Every time add to cart below any product gets pressed, the productId is set equal to the productId of the dataset of the button. For each item in the cart, if the productId set earlier matches the productId of the item, matchingItem equals item. Then it tests if the matchingItem is a truthy statement. If it is or if the item being added is already in the cart, add 1 more to it, else push the new item to the cart and give it a quantity of 1. Then, the cartQuantity is set equal to each itemQuantity and the cartQuantity is added to the document body. 
 
-![image-20230915225358494](C:\Users\jonat\AppData\Roaming\Typora\typora-user-images\image-20230915225358494.png)
+![](images/js1.png)
 
 This was added to make the text less congested and keep each product item name the same height. 
 
-![image-20230916002621731](C:\Users\jonat\AppData\Roaming\Typora\typora-user-images\image-20230916002621731.png)![image-20230916002718562](C:\Users\jonat\AppData\Roaming\Typora\typora-user-images\image-20230916002718562.png)
+![](images/limit_two_lines.png)
 
 
 
-![image-20230916002835675](C:\Users\jonat\AppData\Roaming\Typora\typora-user-images\image-20230916002835675.png)
+![](images/product_example.png)
 
 The media queries for the checkout page. At 1000px width, the payment summary becomes a horizontal grid. Max-width here means the code is testing desktop first. In most cases, media queries are tested mobile first. I tested it this way because I wanted the desktop version of the website to appear good before I had to worry about the smaller versions of the website.
 
-![image-20230916003405029](C:\Users\jonat\AppData\Roaming\Typora\typora-user-images\image-20230916003405029.png)
+![](images/css.png)
 
 Over 1000px width.
 
-![image-20230916004548173](C:\Users\jonat\AppData\Roaming\Typora\typora-user-images\image-20230916004548173.png)
+![](images/css1.png)
 
 Under 1000px width.
 
