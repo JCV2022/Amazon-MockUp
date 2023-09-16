@@ -2,6 +2,8 @@
 
 This is a mock website of the official Amazon website. The main function of this website is to display items in a grid view, each with a rating and a price with the option to add quantities of each item (up to 10 items quantity). Adding them to the cart will affect the number and will change depending on how many items are added. 
 
+![](images/amazonhome.png)
+
 It exists to test my JavaScript skills and apply them to a website modelled after a real world website. 
 
 The technical concepts my project supports is the use of media queries to modify the CSS of HTML elements depending on the size of the screen being used to view the website, making an array of objects to showcase within a grid, and how to id each object so that the code knows the difference between each object. 
