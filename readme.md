@@ -32,11 +32,11 @@ This was added to make the text less congested and keep each product item name t
 
 The media queries for the checkout page. At 1000px width, the payment summary becomes a horizontal grid. Max-width here means the code is testing desktop first. In most cases, media queries are tested mobile first. I tested it this way because I wanted the desktop version of the website to appear good before I had to worry about the smaller versions of the website.
 
-![](images/css.png)
+![](images/css1.png)
 
 Over 1000px width.
 
-![](images/css1.png)
+![](images/checkout.png)
 
 Under 1000px width.
 
